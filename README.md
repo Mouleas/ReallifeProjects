@@ -31,11 +31,11 @@ Digital signature uses are increasing day by day. There are many other websites 
 
 - It is a program which is used to convert a pdf to a text format
 
-### Advantages
+#### Advantages
 -  There is no need in manual operation 
 -  It automatically reconizes the text and print in the screen
 
-### Libraries required
+#### Libraries required
 ```Python
 pip install pytesseract
 pip install tkinter
@@ -49,7 +49,7 @@ pip install PIL
 
 ##### This codes is based on python 3.9
 
-## INSTRUCTIONS
+#### INSTRUCTIONS
 you need to download various packages.
 Here is the procedure to download all these packages
 ```python
@@ -63,7 +63,7 @@ pip install speedtest-cli
 pip install pywhatkit
 pip install wikipedia
 ```
-### uses of these modules
+#### Uses of these modules
 - SpeechRecognition   ==> this makes our program to listen
 - pyttsx3 and pyaudio ==> this is used to catch our voice commands
 - webbroser           ==> this directs us to web
