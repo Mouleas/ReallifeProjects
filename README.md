@@ -1,6 +1,6 @@
 # ReallifeProjects
 
-##### Digital signature
+## Digital signature
 - A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents. A valid digital signature, where the prerequisites are satisfied, gives a recipient very strong reason to believe that the message was created by a known sender (authentication), and that the message was not altered in transit integrity.
 ##### Uses
 Digital Signature Certificate is used for the following purposes.
@@ -24,3 +24,20 @@ Digital Signature Certificate is used for the following purposes.
 Digital signature uses are increasing day by day. There are many other websites where digital signature is used for all transaction. It is practically imposible to list all websites. He have listed some major sites only.
 #### Pictorial representation
 ![3-56](https://user-images.githubusercontent.com/74062509/115358984-d6e25900-a1db-11eb-8832-339e0bb6f871.png)
+
+
+
+## Image To Text
+
+- It is a program which is used to convert a pdf to a text format
+
+### Advantages
+-  There is no need in manual operation 
+-  It automatically reconizes the text and print in the screen
+
+### Libraries required
+```Python
+pip install pytesseract
+pip install tkinter
+pip install PIL
+```
