@@ -24,7 +24,8 @@ Digital Signature Certificate is used for the following purposes.
 Digital signature uses are increasing day by day. There are many other websites where digital signature is used for all transaction. It is practically imposible to list all websites. He have listed some major sites only.
 #### Pictorial representation
 ![3-56](https://user-images.githubusercontent.com/74062509/115358984-d6e25900-a1db-11eb-8832-339e0bb6f871.png)
-
+***
+***
 
 
 ## Image To Text
@@ -42,7 +43,8 @@ pip install tkinter
 pip install PIL
 ```
 
-=====
+***
+***
 
 
 ## Voice_Assistant
@@ -73,6 +75,9 @@ pip install wikipedia
 - wikipedia           ==> this is similar to wikipedia
 
 #### In this program i copied the links of my most commonly used websites because i need this websites always logged in and i don't need to see any kind of log in pages when i command my program so make sure to use your program  has your soial media links otherwise it not gonna work 
+
+***
+***
 
 ## GUI Chatroom
 #### Socket programming
